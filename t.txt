@@ -1,0 +1,9 @@
+[14:00:35] Using gulpfile ~/src/LearnWozllaJS/gulpfile.js
+[14:00:35] Starting 'compileTs'...
+[14:00:37] TypeScript: 2153 semantic errors
+[14:00:37] TypeScript: emit failed
+[14:00:37] Finished 'compileTs' after 2.84 s
+[14:00:37] Starting 'combineJs'...
+[14:00:37] Finished 'combineJs' after 17 ms
+[14:00:37] Starting 'watch'...
+[14:00:37] Finished 'watch' after 12 ms
