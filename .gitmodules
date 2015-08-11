@@ -1,0 +1,7 @@
+[submodule "Engine"]
+	path = Engine
+	url = http://xuyang@119.254.210.91:7990/scm/engine/engine.git
+
+[submodule "tsv2_res"]
+	path = tsv2_res
+	url = http://stash.wozllajs.com/scm/ts/tsv2_res.git
